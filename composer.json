@@ -19,7 +19,7 @@
         "issues": "https://github.com/cakephp/bake/issues",
         "forum": "http://stackoverflow.com/tags/cakephp",
         "irc": "irc://irc.freenode.org/cakephp",
-        "source": "https://github.com/djamesfar/bake
+        "source": "https://github.com/djamesfar/bake"
     },
     "require": {
         "php": ">=5.4",
