@@ -1,9 +1,9 @@
 {
-    "name": "Stage32/bake",
+    "name": "djamesfar/bake",
     "description": "Bake plugin for CakePHP 3.0 (modified)",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "bake"],
-    "homepage": "https://github.com/Stage32/bake-plugin",
+    "homepage": "https://github.com/djamesfar/bake",
     "license": "MIT",
     "authors": [
       {
@@ -19,7 +19,7 @@
         "issues": "https://github.com/cakephp/bake/issues",
         "forum": "http://stackoverflow.com/tags/cakephp",
         "irc": "irc://irc.freenode.org/cakephp",
-        "source": "https://github.com/Stage32/bake-plugin"
+        "source": "https://github.com/djamesfar/bake
     },
     "require": {
         "php": ">=5.4",
